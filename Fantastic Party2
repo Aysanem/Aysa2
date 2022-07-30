@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: aqua;
+    color: black;
+    padding: 10px;
+}
+header a{
+    text-decoration: none;
+    color: brown;
+    background-color: cornsilk;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 10px;
+}
+h1 {
+    text-align: center;
+    font-size: 60px;
+    font-weight: normal;
+    padding-bottom: 5px;
+    background-color: yellowgreen;
+}
+footer {
+    background-color: plum;
+    padding: 10px;
+}
+
+footer p {
+    background-color: white;
+    padding: 5px;
+}
+nav {
+  margin-left: 30%;
+  margin-top: 5%;
+}
+nav a{
+    border: 2px solid peru;
+    margin: 5px;
+    padding: 5px;
+    text-decoration: none;
+    background-color: plum;
+    color: black;
+    border-radius: 25px;
+}
+p {
+  background-color: aqua;
+  color: black;
+  border-radius: 30px;
+}
+h2 {
+    color: blue;
+    font-size: 40px;
+}
